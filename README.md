@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJs and NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me murithibrianm@gmail.com
+- My other github profile https://github.com/brayohdephaz
 
 <!---
 brayohmurithidev/brayohmurithidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
