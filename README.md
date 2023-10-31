@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/_faztech" target="blank"><img src="https://img.shields.io/twitter/follow/_faztech?logo=twitter&style=for-the-badge" alt="_faztech" /></a> </p>
 
-- 🔭 I’m currently working on **JOB PROSPECTS SYSTEM**
+- 🔭 I’m currently working on **EMPLOYEE MANAGEMENT SYSTEM**
 
-- 🌱 I’m currently learning **Python Flask, Server Configurations**
+- 🌱 I’m currently learning **Sequilizer ORM**
 
-- 💬 Ask me about **React, MongoDB, NodeJs**
+- 💬 Ask me about **React, MongoDB, MYSQL, NodeJs**
 
 - 📫 How to reach me **murithibrianm@gmail.com**
 
